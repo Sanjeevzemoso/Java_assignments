@@ -1,6 +1,6 @@
-package sanjeev.main;
+package Assignment5.sanjeev.main;
 
-import Assignment5.sanjeev.Singleton.Singleton;
+import Assignment5.sanjeev.singleton.Singleton;
 import Assignment5.sanjeev.data.Initial;
 
 public class Main {

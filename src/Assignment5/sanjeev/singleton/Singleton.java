@@ -1,4 +1,4 @@
-package sanjeev.Singleton;
+package Assignment5.sanjeev.singleton;
 
 public class Singleton {
 
